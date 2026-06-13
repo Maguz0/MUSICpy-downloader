@@ -14,8 +14,8 @@
 **The most complete music downloader. Unlimited. No commitments.**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platforms](https://img.shields.io/badge/Plataformas-5-success?style=for-the-badge)](#plataforma (supported)
-[![Formats](https://img.shields.io/badge/Formatos-7-blueviolet?style=for-the-badge)](#formatos-de-descarga)
+[![Platforms](https://img.shields.io/badge/Plataformas-5-success?style=for-the-badge)](#plataforms-support)
+[![Formats](https://img.shields.io/badge/Formatos-7-blueviolet?style=for-the-badge)](#formats-downloader)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
 </div>
