@@ -21,7 +21,7 @@
 </div>
 
 ---
-[English](README.MD) | [Spanish](README.md) | [CHINESE](README.ZN.MD) | [RUSSIAN](README.ru.md)
+[English](README.EN.MD) | [Spanish](README.md) | [CHINESE](README.ZN.MD) | [RUSSIAN](README.RU.MD)
 
 ## ✨ Что такое Musicpy Downloader?
 
