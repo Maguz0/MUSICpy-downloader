@@ -21,7 +21,7 @@
 </div>
 
 ---
-[English](README.md) | [Spanish](README.es.md) | [CHINESE](README.zn.md) | [RUSSIAN](README.ru.md)
+[English](README.md) | [Spanish](README.md) | [CHINESE](README.zn.md) | [RUSSIAN](README.ru.md)
 ## ✨ What is Musicpy Downloader?
 
 Musicpy Downloader is a tool with a Python interface that allows you to download music from the world's most popular platforms—with support for embedded lyrics, multiple formats, and complete visual customization.
