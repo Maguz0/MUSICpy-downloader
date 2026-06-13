@@ -14,11 +14,8 @@
 **最全面的音乐下载器。无限量下载。无需任何承诺。**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
 [![Platforms](https://img.shields.io/badge/Plataformas-5-success?style=for-the-badge)](#platafo) rms-support)
-
 [![格式](https://img.shields.io/badge/Formatos-7-blueviolet?style=for-the-badge)](#formats-downloader)
-
 [![许可证](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
 </div>
