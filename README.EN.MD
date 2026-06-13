@@ -42,7 +42,7 @@ Musicpy Downloader is a tool with a Python interface that allows you to download
 |🔗 **Download with Link Only** | Paste the link and you're done, no extra configuration |
 |📋 **Playlist Support** | Download entire playlists at once |
 |🎵 **5 Platforms** | YouTube, Spotify, SoundCloud, Deezer, and Tidal |
-|📁 **Change Download Folder |
+|📁 **Change Download Folder 
 ---
 
 ## 🎧 Supported Platforms
