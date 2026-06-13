@@ -31,26 +31,27 @@ Musicpy Downloader is a tool with a Python interface that allows you to download
 ---
 
 ## 🚀 Main Features
+---
 
 | Feature | Description |
 
----|---|
+|---|---|
 
-🎨 **Customizable Colors** | Change the interface colors to your liking |
+|🎨 **Customizable Colors** | Change the interface colors to your liking |
 
-📁 **7 Download Formats** | MP3 (320k and 128k), M4A (AAC), FLAC, WAV, OGG, OPUS, AAC |
+|📁 **7 Download Formats** | MP3 (320k and 128k), M4A (AAC), FLAC, WAV, OGG, OPUS, AAC |
 
-🌐 **7 Download Sources** | Multiple backends for maximum availability |
+|🌐 **7 Download Sources** | Multiple backends for maximum availability |
 
-🎤 **Embedded LRC Lyrics** | Synced and embedded directly in the file |
+|🎤 **Embedded LRC Lyrics** | Synced and embedded directly in the file |
 
-🔗 **Download with Link Only** | Paste the link and you're done, no extra configuration |
+|🔗 **Download with Link Only** | Paste the link and you're done, no extra configuration |
 
-📋 **Playlist Support** | Download entire playlists at once |
+|📋 **Playlist Support** | Download entire playlists at once |
 
-🎵 **5 Platforms** | YouTube, Spotify, SoundCloud, Deezer, and Tidal |
+|🎵 **5 Platforms** | YouTube, Spotify, SoundCloud, Deezer, and Tidal |
 
-📁 **Change Download Folder |
+|📁 **Change Download Folder |
 
 ---
 
