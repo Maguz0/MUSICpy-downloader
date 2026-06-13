@@ -58,19 +58,13 @@ Musicpy Downloader is a tool with a Python interface that allows you to download
 
 <div align="center">
 
-| | Platform | Songs | Playlists | Albums |
-
-:---:|:---:|:---:|:---:|:---:|
-
-🔴 | **YT and YTMUSIC** | ✅ | ✅ | ✅ |
-
-🟢 | **Spotify** | ✅ | ✅ | ✅ |
-
-🟠 | **SoundCloud** | ✅ | ✅ | ✅ |
-
-🩵 | **Deezer** | ✅ | ✅ | ✅ |
-
-🔵 | **Tidal** | ✅ | ✅ | ✅ |
+| | Plataforma | Song | Playlists | Álbumes |
+|:---:|:---:|:---:|:---:|:---:|
+| 🔴 | **YT y YTMUSIC** | ✅ | ✅ | ✅ |
+| 🟢 | **Spotify** | ✅ | ✅ | ✅ |
+| 🟠 | **SoundCloud** | ✅ | ✅ | ✅ |
+| 🩵 | **Deezer** | ✅ | ✅ | ✅ |
+| 🔵 | **Tidal** | ✅ | ✅ | ✅ |
 
 </div>
 
