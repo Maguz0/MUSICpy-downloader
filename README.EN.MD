@@ -116,17 +116,16 @@ Musicpy Downloader allows you to modify the **interface colors** directly from t
 
 ┌────────────────────────────┐
 
-│ 🎨 Theme: Night Purple
+│ 🎨 Theme: Night Purple     │
 
-│ 🎨 Theme: Matrix Green
+│ 🎨 Theme: Matrix Green     │
 
-│ 🎨 Theme: Fire Red
+│ 🎨 Theme: Fire Red         │
 
-│ 🎨 Theme: Automatic
+│ 🎨 Theme: Automatic        │
 
-│ 🎨 Custom...
-
-│ └─────────────────────────────┘
+│ 🎨 Custom...               │
+└─────────────────────────────┘
 ```
 
 ---
