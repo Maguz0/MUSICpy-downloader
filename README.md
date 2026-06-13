@@ -21,7 +21,7 @@
 </div>
 
 ---
-[English](https://github.com/Maguz0/MUSICpy-downloader/blob/main/README.EN.MD) | [Español](README.es.md) | [CHINO](README.zn.md) | [RUSO](README.ru.md)
+[English](README.EN.MD) | [Español](README.es.md) | [CHINO](README.zn.md) | [RUSO](README.ru.md)
 
 ## ✨ ¿Qué es Musicpy Downloader?
 
