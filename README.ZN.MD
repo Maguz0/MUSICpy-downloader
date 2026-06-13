@@ -22,7 +22,7 @@
 
 ---
 
-[英文](README.md) | [西班牙文](README.md) | [中文](README.zn.md) | [俄文](README.ru.md)
+[ENGLISH](README.EN.MD) | [ESPAÑOL](README.md) | [中文](README.zn.md) | [RUSO](README.ru.md)
 
 ## ✨ 什么是 Musicpy Downloader？
 
