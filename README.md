@@ -94,7 +94,12 @@ Musicpy Downloader soporta **tres modos de letra**:
 ---
 
 ## ⚙️ Instalación
-descarga en release el .zip, ejecuta install.py y despues de pasar los 6 requirimientos ejecuta run.bat IMPORTANTE se incluira ffmpeg.exe y ffprobe.exe IMPORTANTES para descargar por caso de error en el install.py
+1- Descarga en release el .zip
+2- Ejecuta install.py
+3- Despues de pasar los 6 requirimientos 
+4- Ejecuta run.bat 
+
+IMPORTANTE se incluira ffmpeg.exe y ffprobe.exe IMPORTANTES para descargar por caso de error en el install.py EL CMD que se abre no debe borrarse se quitara automaticamente una vez se cierre el programa
 ---
 
 ## 🎨 Personalización de colores
@@ -115,7 +120,8 @@ Musicpy Downloader te permite modificar los **colores de la interfaz** directame
 
 ## 🖥️ Uso básico
 
-```este descargador tiene interfaz por lo que no nesesitas saber mucho de python solo copiar el LINK y cambiar fuente, formato, letra y presionar DESCARGAR facil y rapido 
+```
+este descargador tiene interfaz por lo que no nesesitas saber mucho de python solo copiar el LINK y cambiar fuente, formato, letra y presionar DESCARGAR facil y rapido 
 ```
 
 ---
