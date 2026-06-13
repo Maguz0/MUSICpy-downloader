@@ -65,13 +65,13 @@ Musicpy Downloader is a tool with a Python interface that allows you to download
 
 ```
 ┌───────────────────────────────────────────────┐
-│ 🎵 MP3 — Compatible with all devices │
-│ 🎵 FLAC — Lossless quality │
-│ 🎵 WAV — Uncompressed audio │
-│ 🎵 M4A — AAC optimized for Apple │
-│ 🎵 OGG — Open source and lightweight │
-│ 🎵 OPUS — Best for streaming │
-│ 🎵 AAC — High quality, smaller size │
+│ 🎵 MP3 — Compatible with all devices          │
+│ 🎵 FLAC — Lossless quality                    │
+│ 🎵 WAV — Uncompressed audio                   │
+│ 🎵 M4A — AAC optimized for Apple              │
+│ 🎵 OGG — Open source and lightweight          │
+│ 🎵 OPUS — Best for streaming                  │
+│ 🎵 AAC — High quality, smaller size           │
 └────────────────────────────────────────────────┘
 ```
 
